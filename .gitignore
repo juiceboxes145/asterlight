@@ -1,0 +1,15 @@
+node_modules/
+.vercel/
+.openai/
+local-config/
+archive/
+work/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+
+FILE-INVENTORY.json
+resources/presentations/session-backup.json

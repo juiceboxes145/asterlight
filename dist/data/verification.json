@@ -1,0 +1,72 @@
+{
+  "verifiedAt": "2026-11-16T03:17:22.580Z",
+  "results": [
+    {
+      "target": "barnard",
+      "observations": 24,
+      "warnings": [
+        "DR1 could not be queried; results cover the other release only."
+      ],
+      "frame": {
+        "date": "2026-08-21T15:37:10.015",
+        "wavelength": 1.3012243144632665,
+        "coverage": 0.97711181640625,
+        "maskedFraction": 0.04119873046875,
+        "detector": 2,
+        "finitePixels": 16009
+      }
+    },
+    {
+      "target": "epsilon",
+      "observations": 93,
+      "warnings": [],
+      "frame": {
+        "date": "2025-10-06T07:11:33.931",
+        "wavelength": 1.1664025519488221,
+        "coverage": 0.8399658203125,
+        "maskedFraction": 0.0301513671875,
+        "detector": 2,
+        "finitePixels": 13762
+      }
+    },
+    {
+      "target": "wise",
+      "observations": 45,
+      "warnings": [],
+      "frame": {
+        "date": "2025-12-12T08:26:02.508",
+        "wavelength": 4.699759973767552,
+        "coverage": 0.861572265625,
+        "maskedFraction": 0.07574462890625,
+        "detector": 6,
+        "finitePixels": 14116
+      }
+    },
+    {
+      "target": "rw",
+      "observations": 55,
+      "warnings": [],
+      "frame": {
+        "date": "2026-03-05T05:07:15.739",
+        "wavelength": 1.5701741523800097,
+        "coverage": 0.941650390625,
+        "maskedFraction": 0.05401611328125,
+        "detector": 2,
+        "finitePixels": 15428
+      }
+    },
+    {
+      "target": "r-dra",
+      "observations": 89,
+      "warnings": [],
+      "frame": {
+        "date": "2025-12-01T00:36:49.904",
+        "wavelength": 1.217387738543829,
+        "coverage": 0.9332275390625,
+        "maskedFraction": 0.0699462890625,
+        "detector": 2,
+        "finitePixels": 15290
+      }
+    }
+  ]
+}
